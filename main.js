@@ -1,10 +1,9 @@
 import Numeros from "./numeros.js"
 
-const input = promp();
+const input = prompt();
 
 
 class Main {
-    
 
     uno() {
         let uno = new Numeros();
@@ -47,9 +46,7 @@ class Main {
 }
 
 let app = new Main;
-if(input.includes("1"), 0){
 app.uno();
-}
 app.dos();
 app.tres();
 app.cuatro();

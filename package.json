@@ -1,0 +1,23 @@
+{
+  "name": "reto-programacion",
+  "version": "1.0.0",
+  "description": "Reto",
+  "main": "main.js",
+  "scripts": {
+    "start": "run",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanessa-covarrubias-nava/reto-programacion.git"
+  },
+  "author": "Vanessa Covarrubias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanessa-covarrubias-nava/reto-programacion/issues"
+  },
+  "homepage": "https://github.com/vanessa-covarrubias-nava/reto-programacion#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

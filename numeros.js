@@ -1,5 +1,5 @@
 export default class Numeros {
-
+    
     constructor(uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve){
         this.uno = uno;
         this.dos = dos;
@@ -39,8 +39,6 @@ export default class Numeros {
     getNueve() {
         return " _ \n|_|\n _|";
     }
-
-
 }
 
     /** const uno = "  |\n  |\n  |";
